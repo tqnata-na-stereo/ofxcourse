@@ -23,7 +23,7 @@ export default function IntroOffer() {
 
           <div className="mb-12 w-full flex justify-center">
             <Image 
-              src="/images/flags.png" 
+              src="/ofxcourse/images/flags.png" 
               alt="International Flags" 
               width={360} 
               height={60}

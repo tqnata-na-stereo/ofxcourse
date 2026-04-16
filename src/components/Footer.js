@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           <Link href="/" className="flex-shrink-0">
             <Image 
-              src="/images/logo_footer.png" 
+              src="/ofxcourse/images/logo_footer.png" 
               alt="OFX Logo" 
               width={100} 
               height={30}

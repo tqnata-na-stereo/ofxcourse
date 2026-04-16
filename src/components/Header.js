@@ -9,7 +9,7 @@ export default function Header() {
         <div className="flex-shrink-0 flex items-center">
           <Link href="/" className="flex items-center gap-2">
             <Image 
-              src="/images/ofx_logo.JPG" 
+              src="/ofxcourse/images/ofx_logo.JPG" 
               alt="OFX Logo" 
               width={140} 
               height={40}

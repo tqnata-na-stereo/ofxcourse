@@ -28,7 +28,7 @@ export default function Security() {
           {/* Image Side */}
           <div className="order-1 lg:order-2 relative h-[400px] md:h-[500px] w-full rounded-2xl overflow-hidden shadow-xl">
             <Image 
-              src="/images/security.png" 
+              src="/ofxcourse/images/security.png" 
               alt="Security at OFX" 
               fill
               className="object-cover rounded-2xl"

@@ -52,7 +52,7 @@ export default function Testimonials() {
             <div key={index} className="bg-white p-8 rounded-2xl shadow-sm border border-border-color border-opacity-40 hover:shadow-md transition-shadow flex flex-col">
               <div className="mb-4 h-8 w-32 relative">
                 <Image 
-                  src="/images/image-test.png" 
+                  src="/ofxcourse/images/image-test.png" 
                   alt="Review Source" 
                   fill
                   className="object-contain object-left"
@@ -61,7 +61,7 @@ export default function Testimonials() {
               <h3 className="font-bold text-xl text-navy mb-3">{review.title}</h3>
               <div className="mb-6 h-5 w-32 relative">
                 <Image 
-                  src="/images/stars.png" 
+                  src="/ofxcourse/images/stars.png" 
                   alt="5 Star Rating" 
                   fill
                   className="object-contain object-left"

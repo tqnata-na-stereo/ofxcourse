@@ -28,7 +28,7 @@ export default function SupportBanner() {
           <div className="flex-1 relative w-full max-w-md mx-auto lg:mx-0">
             <div className="relative rounded-[32px] overflow-hidden aspect-[4/3]">
               <Image 
-                src="/images/how-can-we-help-5.png"
+                src="/ofxcourse/images/how-can-we-help-5.png"
                 alt="Support team"
                 fill
                 className="object-contain object-center"

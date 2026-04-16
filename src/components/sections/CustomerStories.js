@@ -11,7 +11,7 @@ export default function CustomerStories() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
             <div className="relative h-[350px] md:h-[450px] w-full rounded-2xl overflow-hidden shadow-lg">
               <Image 
-                src="/images/how.png" 
+                src="/ofxcourse/images/how.png" 
                 alt="Jarrad Butler" 
                 fill
                 className="object-cover"
@@ -47,7 +47,7 @@ export default function CustomerStories() {
             </div>
             <div className="order-1 lg:order-2 relative h-[350px] md:h-[450px] w-full rounded-2xl overflow-hidden shadow-lg">
               <Image 
-                src="/images/moving.png" 
+                src="/ofxcourse/images/moving.png" 
                 alt="Scott moving to Edinburgh" 
                 fill
                 className="object-cover"

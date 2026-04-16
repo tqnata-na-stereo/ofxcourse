@@ -24,7 +24,7 @@ export default function Hero() {
             <div className="mb-3">
               <Link href="#" className="inline-block cursor-pointer transition-opacity hover:opacity-80">
                 <Image 
-                  src="/images/trustpilot.JPG" 
+                  src="/ofxcourse/images/trustpilot.JPG" 
                   alt="Trustpilot Rating" 
                   width={300} 
                   height={65}
